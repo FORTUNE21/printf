@@ -1,0 +1,7 @@
+#!/bin/bash
+
+/* Ignore all test files*/
+*main.c
+
+/* Ignore all emacs backup files */
+~*
